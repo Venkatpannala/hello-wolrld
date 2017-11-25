@@ -1,2 +1,1 @@
-# hello-wolrld
-to learn the tutorial
+This to learn how to work with Git hub
